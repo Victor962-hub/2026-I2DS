@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/bin/Debug/net10.0/Herança
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/bin/Debug/net10.0/Herança.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/bin/Debug/net10.0/Herança.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/bin/Debug/net10.0/Herança.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/bin/Debug/net10.0/Herança.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/refint/Herança.dll
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/Herança.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-04/02-Herança/Herança/obj/Debug/net10.0/ref/Herança.dll
