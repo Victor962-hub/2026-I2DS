@@ -2,10 +2,35 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Imprimir numeros de 1 até 10, utilizando o laço for.");
-        for (int numero = 1; numero <= 10; numero++)
+        /* 
+            Criar um programa que apresente a tabuada de um número informado pelo usuário.
+        */
+        string continuar = "s";
+
+
+        while(continuar.ToLower() == "s")
         {
-            Console.WriteLine(numero);
+            Console.Write("Digite um número: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            MostrarTabuada(numero);
+            Console.WriteLine();
+
+            Console.Write("Deseja continuar? (s/n): ");
+            continuar = Console.ReadLine();
+        }
+        Console.WriteLine("Programa encerrado.");
+    }
+
+
+    static void MostrarTabuada(int numero)
+    {
+        Console.WriteLine();
+        Console.WriteLine($"Tabuada do {numero}");
+
+        for(int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine($"{numero} x {i} = {numero * i}");
         }
     }
 }
