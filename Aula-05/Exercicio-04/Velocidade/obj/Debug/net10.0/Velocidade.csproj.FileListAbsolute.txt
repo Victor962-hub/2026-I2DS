@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/bin/Debug/net10.0/Velocidade
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/bin/Debug/net10.0/Velocidade.deps.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/bin/Debug/net10.0/Velocidade.runtimeconfig.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/bin/Debug/net10.0/Velocidade.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/bin/Debug/net10.0/Velocidade.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.AssemblyInfo.cs
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.sourcelink.json
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/refint/Velocidade.dll
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.pdb
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/Velocidade.genruntimeconfig.cache
+/Users/DS1/Documents/2026-I2DS/Aula-05/Exercicio-04/Velocidade/obj/Debug/net10.0/ref/Velocidade.dll
