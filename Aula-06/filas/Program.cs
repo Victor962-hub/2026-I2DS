@@ -21,6 +21,7 @@
         }
 
         // 4 - Remover elementos de uma fila
+    
         string pessoaRetirada = filaLoterica.Dequeue();
         Console.WriteLine();
         Console.WriteLine($"O Nome chamado foi: {pessoaRetirada}");
